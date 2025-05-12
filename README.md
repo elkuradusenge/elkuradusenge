@@ -1,16 +1,14 @@
 ## Hi there 👋
 
+**Hi, I'm Elie Kuradusenge!** I'm pleased to welcome you to my GitHub profile.
 
-**It's me Elie Kuradusenge** I am pleased to welcome you on my Github profile.
+Here are a few things to help you get to know me:
 
-Here are some ideas to help you know me
-
-- 🔭 I’m currently working on Java/Springboot + 
-- 🌱 I’m currently learning  **Tensorflow/AI/ML**
-- 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with Social Skills
-- 💬 Ask me about Softwares 
+- 💻 I’m currently working with Java and Spring Boot.
+- 📚 I’m currently learning **TensorFlow, AI, and Machine Learning.**
+- 🤝 I’m looking to collaborate on Python projects.
+- 🧠 I’m working on improving my social skills.
+- 💬 Ask me about software development.
 - 📫 How to reach me: [click me](mailto:e.kuradusen@alustudent.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't talk with people alot even thought I like talking with people **why** I busy fixing one more bug in my code
-
+- ⚡ Fun fact: I don’t talk to people much, even though I enjoy it—because I’m usually busy fixing one more bug in my code.
