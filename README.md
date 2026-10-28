@@ -11,4 +11,4 @@ Here are a few things to help you get to know me:
 - 💬 Ask me about software development.
 - 📫 How to reach me: [click me](mailto:e.kuradusen@alustudent.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don’t talk to people much, even though I enjoy it—I’m usually busy adding one more feature to perfect it.
+- ⚡ Fun fact: I don't think there is 😢
