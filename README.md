@@ -11,4 +11,4 @@ Here are a few things to help you get to know me:
 - 💬 Ask me about softwares and computers.
 - 📫 How to reach me: [click me](mailto:e.kuradusen@alustudent.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't think there is 😢
+- ⚡ Fun fact: I don't think there is 😢 they are all fiction 😆
